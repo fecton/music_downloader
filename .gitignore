@@ -2,7 +2,10 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+*.webm
+*.mp3
+*.part
+*.m4a
 # C extensions
 *.so
 
