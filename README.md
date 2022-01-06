@@ -39,6 +39,7 @@ python main.py
 
 > Let's correct it:
 <img src="readme_images/module_fix_4.png" width=800>
+
 ```
 self._likes = self._ydl_info.get('like_count', 0)
 self._dislikes = self._ydl_info.get('dislike_count', 0)
